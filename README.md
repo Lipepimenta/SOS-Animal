@@ -1,6 +1,7 @@
-# projeto_Final
-Atividade de Conclusão de GTI
+<h1 align="center">Projeto Final de Conclusão de Curso GTI no IFPR Pinhais</h1>
 
+
+![teste-logo-flutter](https://github.com/Lipepimenta/Projeto-Final/assets/95368421/3fba2efa-295c-44fd-96a8-328bd3bf36cc)
 
 Link da aplicação;
 Colocar a Logo;
