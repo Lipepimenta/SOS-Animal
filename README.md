@@ -12,18 +12,40 @@
 
 # Introdução
 
-* [Link da aplicação](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
-* [Índice](#índice)
+* [Redes Social](#Título-e-Imagem-de-capa)
+* [Objetivo](#badges)
+* [Escopo Inicial](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Autores](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+
+# Rede Social
+
+* [https://www.instagram.com/sosanimal2.0/]([#Título-e-Imagem-de-capa])
+
+# :dart: Objetivo
+
+O projeto tem como objetivo desenvolver e implementar um aplicativo móvel para denúncia de maus tratos aos animais. Através do aplicativo, pretendemos facilitar e encorajar a denúncia, promovendo a proteção e bem-estar dos animais. O escopo inicial abrange funcionalidades como registro de denúncias, envio de evidências, localização geográfica e acompanhamento do status das ocorrências. O projeto busca impactar positivamente a sociedade, garantindo acessibilidade universal, agilidade e eficiência no processo de denúncia. Além disso, priorizamos a qualidade, confiabilidade e segurança do aplicativo. A gestão adequada dos recursos disponíveis visa alcançar um bom custo-benefício, equilibrando o desenvolvimento sustentável do projeto.
+
+# :star: Escopo Inicial:
+
+*O que o aplicativo vai ter:*
+
+* A criação e lançamento de um aplicativo de smartphone para denúncias de crueldade animal.
+* Os principais recursos são registro de reclamações, envio de provas (fotos/vídeos), localização do evento e rastreamento de reclamações.
+* Interface fácil de navegar e amigável para usuários e administradores.
+* Aplicativos para iOS e Android estão prontamente disponíveis.
+* Conectividade com plataformas de terceiros para relatar problemas aos departamentos certos.
+
+*O que não vai acontecer:*
+
+* Captura e remoção de animais maltratados fisicamente.
+* Adotar medidas imediatas e decisivas para localizar e punir os responsáveis por quaisquer maus tratos.
+* O estabelecimento de seu próprio sistema de relatórios para fins de inspeção ou controle.
+* Adicionando recursos que não têm nada a ver com alegações de abuso de animais.
+
 
 # :hammer: Funcionalidades do projeto
 
@@ -36,6 +58,11 @@
 
 **Apresente as instruções necessárias para abrir e executar o projeto**
 
+# Autores
+
+| [<img src="https://github.com/Lipepimenta/Projeto-Final/assets/95368421/187cc470-b471-4c81-9ff2-5febf80c0c6d" width=115><br><sub>Filipe Favero Pimenta</sub>](https://github.com/Lipepimenta) |  [<img src="https://avatars." width=115><br><sub>Gabriel Mendez</sub>](https://github.com/) |
+| :---: | :---: |
+
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - ``Flutter``
@@ -44,31 +71,8 @@
 - ``Orientado a objeto``
 - ``Alura``
 
-# Links
+# 🔗Links
 
 * https://gist.github.com/rxaviers/7360908 (emojis)
 * https://github.com/alura-cursos/android-com-kotlin-personalizando-ui/blob/master/README.md (Inserir Gifs)
 * https://www.alura.com.br/artigos/escrever-bom-readme (artigo)
-
-# Autores
-
-| [<img src="https://github.com/Lipepimenta/Projeto-Final/assets/95368421/187cc470-b471-4c81-9ff2-5febf80c0c6d" width=115><br><sub>Filipe Favero Pimenta</sub>](https://github.com/Lipepimenta) |  [<img src="https://avatars." width=115><br><sub>teste 01</sub>](https://github.com/) |  [<img src="https://avatars." width=115><br><sub>teste 02</sub>](https://github.com/) |
-| :---: | :---: | :---: |
-
-# Conclusão
-
-Link da aplicação;
-Colocar a Logo;
-Escrever "Projeto interdisciplinar do Cursoo de GTI, do IFPR Pinhais";
-
-Acadêmico: Filipe F. Pimenta
-Descrição: é um aplicativo que possui a finalidade de proteger os animais contra os maus tratos.
-Porque do projeto "Justificativa"?
-Cronograma de marcos (Principais entregas);
-Publico Alvo;
-As personas;
-Riscos;
-Pessoas Envolvidas;
-Premissas e restrições;
-Link do trello;
-
