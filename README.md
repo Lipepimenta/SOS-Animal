@@ -76,3 +76,4 @@ O projeto tem como objetivo desenvolver e implementar um aplicativo móvel para 
 * https://gist.github.com/rxaviers/7360908 (emojis)
 * https://github.com/alura-cursos/android-com-kotlin-personalizando-ui/blob/master/README.md (Inserir Gifs)
 * https://www.alura.com.br/artigos/escrever-bom-readme (artigo)
+* https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github (artigo ||)
